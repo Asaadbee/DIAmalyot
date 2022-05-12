@@ -1,0 +1,2 @@
+# DIAmalyot
+birinchi repository
